@@ -12,3 +12,8 @@ Changes to be committed:
  1 file changed, 4 insertions(+)
  create mode 100644 task1/satus.txt
 
+[master 6fc1a17] add task1/log.txt
+ 3 files changed, 26 insertions(+), 4 deletions(-)
+ create mode 100644 task1/log.txt
+ delete mode 100644 task1/satus.txt
+ create mode 100644 task1/status.txt
