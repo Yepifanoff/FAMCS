@@ -1,0 +1,12 @@
+D:\FPMI\2>git log
+commit d5daeeed644b444be8da5febe7ef97598a51f430
+Author: yepifanoff <yepifanoff@gmail.com>
+Date:   Mon Mar 13 17:35:46 2017 +0300
+
+    add task1/status.txt
+
+commit 3f8413327e2665e37ac4fb3e47c6bc7bede3fb5b
+Author: yepifanoff <yepifanoff@gmail.com>
+Date:   Mon Mar 13 17:29:46 2017 +0300
+
+    add .gitignore

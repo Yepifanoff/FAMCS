@@ -1,0 +1,14 @@
+[master (root-commit) 3f84133] add .gitignore
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+ create mode 100644 .gitignore
+
+On branch master
+Changes to be committed:
+  (use "git reset HEAD <file>..." to unstage)
+
+        new file:   task1/status.txt
+
+[master d5daeee] add task1/status.txt
+ 1 file changed, 4 insertions(+)
+ create mode 100644 task1/satus.txt
+
